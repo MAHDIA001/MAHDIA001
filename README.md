@@ -12,13 +12,4 @@
 - ⚡ Fun fact: I'm half finished🤩
 
 
-SKILLS 👩🏻‍💻
--HTML
--CSS
--Javascript
--Ajax
--Jquery
--React
--Java
--postgresql
--PHP
+
