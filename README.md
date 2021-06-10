@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with web developement
 - 💬 Ask me about anything
 - 📫 How to reach me: [Facebook](https://www.facebook.com/arsheeda.shayan.7/)
-- 😄 Pronouns: Mahdia
 - ⚡ Fun fact: I'm half finished🤩
 
 
@@ -26,3 +25,4 @@
  - Postgresql
  - MySQL
  - PHP 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
