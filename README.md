@@ -1,4 +1,4 @@
-### Hi there I'm Mahdia 👋
+### Hola I'm Mahdia Naiebi 👋
 
 
 
@@ -13,3 +13,16 @@
 
 
 
+**Skills**
+
+ - HTML
+ - CSS
+ - SCSS
+ - Javascript
+ - Jquery
+ - Ajax
+ - React js
+ - Java
+ - Postgresql
+ - MySQL
+ - PHP 
