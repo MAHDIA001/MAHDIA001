@@ -1,8 +1,6 @@
 
 ### Hola I'm Mahdia Naiebi 👋
 
-
-
 - 🔭 I’m currently working on hubchain.org
 - 🌱 I’m currently learning react-Js and flutter
 - 👯 I’m looking to collaborate on React-Js
@@ -60,6 +58,6 @@
     ## My Github Data...
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAHDIA001&theme=buefy-dark)](https://git.io/streak-stats)
     <hr><hr>
-<h1 align='center'>  Check Out My Repositories 👨‍💻 </h1>
-    <hr>
+
+
 
